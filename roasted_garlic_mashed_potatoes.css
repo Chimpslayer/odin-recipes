@@ -1,0 +1,45 @@
+body
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;background-color:rgb(28, 11, 68);
+    
+}
+h1
+{
+    color: khaki;
+    text-align: center;
+}
+img
+{
+    height: auto;
+    width: 300px;
+}
+h2
+{
+    color: saddlebrown;
+    text-align: left;
+}
+p
+{
+    color:salmon;
+    text-align: left;
+}
+h3
+{
+    color:purple;
+    text-align: left;
+}
+h4
+{
+    color:lemonchiffon;
+    text-align:left
+}
+ul li
+{
+    color:deeppink;
+    text-align: left;
+}
+ol li
+{
+    color:forestgreen;
+    text-align:left;
+}

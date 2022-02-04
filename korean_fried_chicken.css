@@ -1,0 +1,44 @@
+body
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:black;
+}
+h1
+{
+    text-align: center;
+    color: gold;
+}
+img
+{
+    height: auto;
+    width: 300px;
+}
+h2
+{
+    color:hotpink;
+    text-align: left;
+}
+p
+{
+    color: white;
+}
+h3
+{
+    color: blueviolet;
+    text-align: left;
+}
+h4
+{
+    color: red;
+    text-align: left;
+}
+ul
+{
+    color:chartreuse;
+    text-align: left;
+}
+ol
+{
+    color: coral;
+    text-align: left;
+}

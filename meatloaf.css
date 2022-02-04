@@ -1,0 +1,40 @@
+body
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:green;
+}
+img
+{
+    height: auto;
+    width: 300px;
+}
+h1
+{
+    color:greenyellow;
+    text-align: center;
+}
+h2
+{
+    color:crimson;
+    text-align: left;
+}
+p
+{
+    color:dodgerblue;
+    text-align: left;
+}
+h3
+{
+    color:darkorange;
+    text-align:left
+}
+ul li
+{
+    color:deepskyblue;
+    text-align: left;
+}
+ol li
+{
+    color:gold;
+    text-align: left;
+}
